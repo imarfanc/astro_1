@@ -33,11 +33,11 @@ astro_1/
 Create a new Astro project in the current directory:
 
 ```sh:Terminal
-npm create astro@latest ./
+npm create astro@latest .
 ```
 
 When prompted:
-- Choose "Empty" template
+- Choose "Minimal" template
 - Install dependencies: Yes
 - TypeScript: Yes (or your preference)
 - Git repository: Already initialized
